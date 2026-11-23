@@ -20,45 +20,11 @@
 
 <br>
 
+## 🧰 Tech stack
 
-
-<table>
-  <tr>
-    <td width="22%"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,cs,dart&perline=12" alt="Languages"></td>
-  </tr>
-  <tr>
-    <td><b>Web & backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,spring,graphql,flutter,html,css,tailwind&perline=12" alt="Web and backend"></td>
-  </tr>
-  <tr>
-    <td><b>Data stores</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,cassandra,redis,firebase,prisma&perline=12" alt="Databases"></td>
-  </tr>
-  <tr>
-    <td><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,azure,docker,kafka,linux,git,github,githubactions&perline=12" alt="Cloud and DevOps"></td>
-  </tr>
-  <tr>
-    <td><b>Data & ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=sklearn,latex&perline=12" alt="Data and ML"> &nbsp; <code>Apache Spark</code> <code>Pandas</code> <code>NumPy</code> <code>Power BI</code></td>
-  </tr>
-  <tr>
-    <td><b>AI & automation</b></td>
-    <td><code>Azure OpenAI</code> <code>LangGraph</code> <code>MCP</code> <code>A2A</code> <code>RAG</code> <code>n8n</code> <code>Copilot Studio</code> <code>Power Platform</code></td>
-  </tr>
-  <tr>
-    <td><b>Tools & practice</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postman,figma,vscode&perline=12" alt="Tools"> &nbsp; <code>Jira</code> <code>Azure DevOps</code> <code>ServiceNow</code> <code>Agile / Scrum</code> <code>UML</code></td>
-  </tr>
-</table>
-
-<br>
-
-
-
-
-
+<p align="center">
+  <img src="assets/tech-stack.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, Python, Java, C, C++, C#, Dart, React, Next.js, Node.js, NestJS, Spring Boot, GraphQL, Flutter, HTML5, CSS3, Tailwind CSS, OutSystems, PostgreSQL, NeonDB, MongoDB, DynamoDB, Cassandra, Microsoft SQL Server, Redis, Firebase, Prisma ORM, AWS, Microsoft Azure, Docker, Apache Kafka, Linux / WSL, Git, GitHub, GitHub Actions, Apache Spark / Spark SQL, Pandas, NumPy, Matplotlib, Scikit-learn, Power BI, LaTeX, Azure OpenAI, LangGraph, Model Context Protocol (MCP), Agent2Agent (A2A), Retrieval-Augmented Generation (RAG), n8n, Copilot Studio, Power Platform, Postman, Figma, VS Code, Jira, Azure DevOps, ServiceNow, Agile / Scrum, UML">
+</p>
 
 <br>
 
