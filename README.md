@@ -22,16 +22,6 @@
 
 
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kevorkian-mano&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=6E87F0&text_color=8B93A3&icon_color=5CC98A&ring_color=6E87F0" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevorkian-mano&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6E87F0&text_color=8B93A3" alt="Top languages">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kevorkian-mano&hide_border=true&background=00000000&ring=6E87F0&fire=F07A6A&currStreakLabel=6E87F0&sideLabels=8B93A3&currStreakNum=8B93A3&sideNums=8B93A3&dates=8B93A3" alt="GitHub streak">
-</p>
-
-
-
 <table>
   <tr>
     <td width="22%"><b>Languages</b></td>
