@@ -20,7 +20,7 @@
 
 <br>
 
-## 🧰 Tech stack
+
 
 <p align="center">
   <img src="assets/tech-stack.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, Python, Java, C, C++, C#, Dart, React, Next.js, Node.js, NestJS, Spring Boot, GraphQL, Flutter, HTML5, CSS3, Tailwind CSS, OutSystems, PostgreSQL, NeonDB, MongoDB, DynamoDB, Cassandra, Microsoft SQL Server, Redis, Firebase, Prisma ORM, AWS, Microsoft Azure, Docker, Apache Kafka, Linux / WSL, Git, GitHub, GitHub Actions, Apache Spark / Spark SQL, Pandas, NumPy, Matplotlib, Scikit-learn, Power BI, LaTeX, Azure OpenAI, LangGraph, Model Context Protocol (MCP), Agent2Agent (A2A), Retrieval-Augmented Generation (RAG), n8n, Copilot Studio, Power Platform, Postman, Figma, VS Code, Jira, Azure DevOps, ServiceNow, Agile / Scrum, UML">
@@ -28,6 +28,3 @@
 
 <br>
 
-<p align="center">
-  <sub>Built with care in Cairo · <a href="https://kevorkian-mano.github.io/portfolio-personal/">see the full portfolio →</a></sub>
-</p>
