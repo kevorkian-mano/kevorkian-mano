@@ -20,45 +20,28 @@
 
 <br>
 
+## 🧰 Tech stack
 
+**Languages**<br>
+<img src="assets/stack/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript"> <img src="assets/stack/javascript.svg" width="44" height="44" alt="JavaScript" title="JavaScript"> <img src="assets/stack/python.svg" width="44" height="44" alt="Python" title="Python"> <img src="assets/stack/java.svg" width="44" height="44" alt="Java" title="Java"> <img src="assets/stack/c.svg" width="44" height="44" alt="C" title="C"> <img src="assets/stack/cpp.svg" width="44" height="44" alt="C++" title="C++"> <img src="assets/stack/cs.svg" width="44" height="44" alt="C#" title="C#"> <img src="assets/stack/dart.svg" width="44" height="44" alt="Dart" title="Dart">
 
-<table>
-  <tr>
-    <td width="22%"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,cs,dart&perline=12" alt="Languages"></td>
-  </tr>
-  <tr>
-    <td><b>Web & backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,spring,graphql,flutter,html,css,tailwind&perline=12" alt="Web and backend"></td>
-  </tr>
-  <tr>
-    <td><b>Data stores</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,cassandra,redis,firebase,prisma&perline=12" alt="Databases"></td>
-  </tr>
-  <tr>
-    <td><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,azure,docker,kafka,linux,git,github,githubactions&perline=12" alt="Cloud and DevOps"></td>
-  </tr>
-  <tr>
-    <td><b>Data & ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=sklearn,latex&perline=12" alt="Data and ML"> &nbsp; <code>Apache Spark</code> <code>Pandas</code> <code>NumPy</code> <code>Power BI</code></td>
-  </tr>
-  <tr>
-    <td><b>AI & automation</b></td>
-    <td><code>Azure OpenAI</code> <code>LangGraph</code> <code>MCP</code> <code>A2A</code> <code>RAG</code> <code>n8n</code> <code>Copilot Studio</code> <code>Power Platform</code></td>
-  </tr>
-  <tr>
-    <td><b>Tools & practice</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postman,figma,vscode&perline=12" alt="Tools"> &nbsp; <code>Jira</code> <code>Azure DevOps</code> <code>ServiceNow</code> <code>Agile / Scrum</code> <code>UML</code></td>
-  </tr>
-</table>
+**Web & backend**<br>
+<img src="assets/stack/react.svg" width="44" height="44" alt="React" title="React"> <img src="assets/stack/nextjs.svg" width="44" height="44" alt="Next.js" title="Next.js"> <img src="assets/stack/nodejs.svg" width="44" height="44" alt="Node.js" title="Node.js"> <img src="assets/stack/nestjs.svg" width="44" height="44" alt="NestJS" title="NestJS"> <img src="assets/stack/spring.svg" width="44" height="44" alt="Spring Boot" title="Spring Boot"> <img src="assets/stack/graphql.svg" width="44" height="44" alt="GraphQL" title="GraphQL"> <img src="assets/stack/flutter.svg" width="44" height="44" alt="Flutter" title="Flutter"> <img src="assets/stack/html.svg" width="44" height="44" alt="HTML5" title="HTML5"> <img src="assets/stack/css.svg" width="44" height="44" alt="CSS3" title="CSS3"> <img src="assets/stack/tailwindcss.svg" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS"> <img src="assets/stack/outsystems.svg" width="44" height="44" alt="OutSystems" title="OutSystems">
 
-<br>
+**Databases & ORM**<br>
+<img src="assets/stack/postgresql.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL"> <img src="assets/stack/neon.svg" width="44" height="44" alt="NeonDB" title="NeonDB"> <img src="assets/stack/mongodb.svg" width="44" height="44" alt="MongoDB" title="MongoDB"> <img src="assets/stack/dynamodb.svg" width="44" height="44" alt="DynamoDB" title="DynamoDB"> <img src="assets/stack/cassandra.svg" width="44" height="44" alt="Cassandra" title="Cassandra"> <img src="assets/stack/mssql.svg" width="44" height="44" alt="Microsoft SQL Server" title="Microsoft SQL Server"> <img src="assets/stack/redis.svg" width="44" height="44" alt="Redis" title="Redis"> <img src="assets/stack/firebase.svg" width="44" height="44" alt="Firebase" title="Firebase"> <img src="assets/stack/prisma.svg" width="44" height="44" alt="Prisma ORM" title="Prisma ORM">
 
+**Cloud & DevOps**<br>
+<img src="assets/stack/aws.svg" width="44" height="44" alt="AWS" title="AWS"> <img src="assets/stack/azure.svg" width="44" height="44" alt="Microsoft Azure" title="Microsoft Azure"> <img src="assets/stack/docker.svg" width="44" height="44" alt="Docker" title="Docker"> <img src="assets/stack/kafka.svg" width="44" height="44" alt="Apache Kafka" title="Apache Kafka"> <img src="assets/stack/linux.svg" width="44" height="44" alt="Linux / WSL" title="Linux / WSL"> <img src="assets/stack/git.svg" width="44" height="44" alt="Git" title="Git"> <img src="assets/stack/github.svg" width="44" height="44" alt="GitHub" title="GitHub"> <img src="assets/stack/githubactions.svg" width="44" height="44" alt="GitHub Actions" title="GitHub Actions">
 
+**Data & ML**<br>
+<img src="assets/stack/apachespark.svg" width="44" height="44" alt="Apache Spark / Spark SQL" title="Apache Spark / Spark SQL"> <img src="assets/stack/pandas.svg" width="44" height="44" alt="Pandas" title="Pandas"> <img src="assets/stack/numpy.svg" width="44" height="44" alt="NumPy" title="NumPy"> <img src="assets/stack/matplotlib.svg" width="44" height="44" alt="Matplotlib" title="Matplotlib"> <img src="assets/stack/scikitlearn.svg" width="44" height="44" alt="Scikit-learn" title="Scikit-learn"> <img src="assets/stack/powerbi.svg" width="44" height="44" alt="Power BI" title="Power BI"> <img src="assets/stack/latex.svg" width="44" height="44" alt="LaTeX" title="LaTeX">
 
+**AI & automation**<br>
+<img src="assets/stack/openai.svg" width="44" height="44" alt="Azure OpenAI" title="Azure OpenAI"> <img src="assets/stack/langgraph.svg" width="44" height="44" alt="LangGraph" title="LangGraph"> <img src="assets/stack/mcp.svg" width="44" height="44" alt="Model Context Protocol (MCP)" title="Model Context Protocol (MCP)"> <img src="assets/stack/a2a.svg" width="44" height="44" alt="Agent2Agent (A2A)" title="Agent2Agent (A2A)"> <img src="assets/stack/rag.svg" width="44" height="44" alt="Retrieval-Augmented Generation (RAG)" title="Retrieval-Augmented Generation (RAG)"> <img src="assets/stack/n8n.svg" width="44" height="44" alt="n8n" title="n8n"> <img src="assets/stack/copilotstudio.svg" width="44" height="44" alt="Copilot Studio" title="Copilot Studio"> <img src="assets/stack/powerplatform.svg" width="44" height="44" alt="Power Platform" title="Power Platform">
 
-
+**Tools & practices**<br>
+<img src="assets/stack/postman.svg" width="44" height="44" alt="Postman" title="Postman"> <img src="assets/stack/figma.svg" width="44" height="44" alt="Figma" title="Figma"> <img src="assets/stack/vscode.svg" width="44" height="44" alt="VS Code" title="VS Code"> <img src="assets/stack/jira.svg" width="44" height="44" alt="Jira" title="Jira"> <img src="assets/stack/azuredevops.svg" width="44" height="44" alt="Azure DevOps" title="Azure DevOps"> <img src="assets/stack/servicenow.svg" width="44" height="44" alt="ServiceNow" title="ServiceNow"> <img src="assets/stack/agile.svg" width="44" height="44" alt="Agile / Scrum" title="Agile / Scrum"> <img src="assets/stack/uml.svg" width="44" height="44" alt="UML" title="UML">
 
 <br>
 
